@@ -1,0 +1,11 @@
+Challenge I
+1. Evaluation: 
+> Password: ACEILOPRSTUY_
+2. Supervised Learning
+> Password: ACEGHILNRSTUY_
+
+3. Challenge II/Lists
+> Password: 116640
+
+4. Singularity Vault
+> Password: Tech4AI
